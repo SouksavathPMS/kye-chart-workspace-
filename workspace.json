@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:13:19.563Z",
+  "exportedAt": "2026-11-27T15:14:16.833Z",
   "version": 2,
   "charts": [
     {
@@ -52,11 +52,11 @@
   "showAutoLevels": false,
   "showSpikes": true,
   "calculator": {
-    "grade": null,
+    "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": null,
-    "stopLoss": null,
+    "entry": 0.9607,
+    "stopLoss": 0.979,
     "takeProfit": null,
     "leverage": 10,
     "feePct": 0.05,
