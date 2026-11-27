@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:11:47.546Z",
+  "exportedAt": "2026-11-27T14:13:16.117Z",
   "version": 2,
   "charts": [
     {
@@ -125,26 +125,6 @@
       "templateId": "liquidity"
     },
     {
-      "id": "67ddc0cb-6b1a-479d-9877-5152a8eb48a8",
-      "symbol": "XRPUSDT",
-      "kind": "ray",
-      "points": [
-        {
-          "time": 1795707110.0902445,
-          "price": 0.9391596918962486
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "Liquidity",
-      "locked": false,
-      "role": null,
-      "templateId": "liquidity"
-    },
-    {
       "id": "1aaec161-39c6-4089-841a-48620d20452a",
       "symbol": "XRPUSDT",
       "kind": "fib",
@@ -214,6 +194,29 @@
       "locked": false,
       "role": null,
       "templateId": "bos"
+    },
+    {
+      "id": "ad451748-d319-4dae-a5ed-c8d87252dd01",
+      "symbol": "XRPUSDT",
+      "kind": "trendline",
+      "points": [
+        {
+          "time": 1795705926.178067,
+          "price": 0.9380733163794336
+        },
+        {
+          "time": 1795865284.1702876,
+          "price": 0.9380733163794336
+        }
+      ],
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "TP",
+      "locked": false,
+      "role": null
     }
   ],
   "drawingStyles": {
@@ -221,10 +224,28 @@
       "color": "#d1d4dc",
       "width": 1,
       "dash": "solid"
+    },
+    "trendline": {
+      "color": "#26a69a",
+      "width": 1,
+      "dash": "dashed"
     }
   },
   "magnet": false,
-  "templates": [],
+  "templates": [
+    {
+      "name": "TP",
+      "kind": "trendline",
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "TP",
+      "id": "u-6222e69d-5610-4777-bd57-67ddd33dfa06",
+      "builtIn": false
+    }
+  ],
   "panel": {
     "open": true,
     "tab": "calculator"
