@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:19:27.534Z",
+  "exportedAt": "2026-11-27T17:20:07.457Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -54,9 +54,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.961,
-    "stopLoss": 0.979,
-    "takeProfit": 0.915,
+    "entry": 0.9489,
+    "stopLoss": 0.9456,
+    "takeProfit": 0.9608,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -316,6 +316,33 @@
       "locked": false,
       "role": null,
       "alert": "armed"
+    },
+    {
+      "id": "279f3257-ca2f-4c0a-bbed-d8b0218fd044",
+      "symbol": "XRPUSDT",
+      "kind": "long",
+      "points": [
+        {
+          "time": 1795799629.7768097,
+          "price": 0.9489
+        },
+        {
+          "time": 1795806282.098275,
+          "price": 0.9456
+        },
+        {
+          "time": 1795806282.098275,
+          "price": 0.9608
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
     }
   ],
   "drawingStyles": {
@@ -395,7 +422,15 @@
     "london": false,
     "ny": false
   },
-  "alertLog": [],
+  "alertLog": [
+    {
+      "at": 1795799989870,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.949,
+      "side": "long"
+    }
+  ],
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
