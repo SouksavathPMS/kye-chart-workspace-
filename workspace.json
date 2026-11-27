@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:47:44.926Z",
+  "exportedAt": "2026-11-27T14:48:01.445Z",
   "version": 2,
   "charts": [
     {
@@ -363,7 +363,7 @@
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
-  "toolbarSize": "large",
+  "toolbarSize": "normal",
   "quickBar": {
     "items": [
       "trendline",
