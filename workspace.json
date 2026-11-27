@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:47:05.767Z",
+  "exportedAt": "2026-11-27T14:47:44.926Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -145,7 +145,7 @@
         "dash": "solid"
       },
       "text": "",
-      "locked": false,
+      "locked": true,
       "role": null
     },
     {
@@ -313,12 +313,12 @@
       "kind": "rect",
       "points": [
         {
-          "time": 1795745884.2162936,
-          "price": 0.9603392949355616
+          "time": 1795660673.1764622,
+          "price": 0.9619789719771805
         },
         {
-          "time": 1795812698.279365,
-          "price": 0.9573641751558133
+          "time": 1795866200.9249082,
+          "price": 0.9562746089280606
         }
       ],
       "style": {
@@ -327,7 +327,7 @@
         "dash": "solid"
       },
       "text": "",
-      "locked": false,
+      "locked": true,
       "role": null
     }
   ],
