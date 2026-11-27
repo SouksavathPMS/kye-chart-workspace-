@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:45:49.148Z",
+  "exportedAt": "2026-11-27T14:46:32.802Z",
   "version": 2,
   "charts": [
     {
@@ -364,6 +364,20 @@
   },
   "stayInDrawingMode": false,
   "toolbarSize": "large",
+  "quickBar": {
+    "items": [
+      "trendline",
+      "hline",
+      "rect",
+      "long",
+      "short",
+      "tpl:bos"
+    ],
+    "x": 0.5,
+    "y": 0,
+    "vertical": false,
+    "shown": true
+  },
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
