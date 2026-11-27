@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:36:40.215Z",
+  "exportedAt": "2026-11-27T17:39:34.339Z",
   "version": 2,
   "charts": [
     {
@@ -55,9 +55,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.961,
-    "stopLoss": 0.979,
-    "takeProfit": 0.9064,
+    "entry": 0.9461,
+    "stopLoss": 0.955,
+    "takeProfit": 0.8915,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -207,12 +207,12 @@
       "kind": "hsegment",
       "points": [
         {
-          "time": 1795735490.3291132,
-          "price": 0.9412119588227759
+          "time": 1795735501.0577197,
+          "price": 0.9412306485247653
         },
         {
-          "time": 1795801700.856645,
-          "price": 0.9412119588227759
+          "time": 1795801711.5852516,
+          "price": 0.9412306485247653
         }
       ],
       "style": {
@@ -254,16 +254,16 @@
       "kind": "short",
       "points": [
         {
-          "time": 1795793959.1196663,
-          "price": 0.961
+          "time": 1795801283.1184075,
+          "price": 0.9461
         },
         {
-          "time": 1795814908.8417816,
-          "price": 0.979
+          "time": 1795822298.4799376,
+          "price": 0.955
         },
         {
-          "time": 1795814908.8417816,
-          "price": 0.9064
+          "time": 1795822298.4799376,
+          "price": 0.8915
         }
       ],
       "style": {
@@ -276,24 +276,27 @@
       "role": null
     },
     {
-      "id": "c3436c4f-5ccd-4492-b61e-1579611e49b8",
+      "id": "abf2f639-6b95-4ff1-b482-283933ed2278",
       "symbol": "XRPUSDT",
-      "kind": "hline",
+      "kind": "trendline",
       "points": [
         {
-          "time": 1795796400,
-          "price": 0.9543
+          "time": 1795792551.8790283,
+          "price": 0.9410908611925421
+        },
+        {
+          "time": 1795804597.3292513,
+          "price": 0.9518333217665955
         }
       ],
       "style": {
-        "color": "#f5c542",
+        "color": "#ef5350",
         "width": 1,
         "dash": "dashed"
       },
-      "text": "Alert",
+      "text": "",
       "locked": false,
-      "role": null,
-      "alert": "armed"
+      "role": null
     }
   ],
   "drawingStyles": {
@@ -374,6 +377,13 @@
     "ny": false
   },
   "alertLog": [
+    {
+      "at": 1795801147295,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.9459,
+      "side": "short"
+    },
     {
       "at": 1795800648886,
       "symbol": "XRPUSDT",
