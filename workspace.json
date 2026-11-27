@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:16:26.989Z",
+  "exportedAt": "2026-11-27T14:20:54.609Z",
   "version": 2,
   "charts": [
     {
@@ -254,6 +254,69 @@
         {
           "time": 1795865407.4446216,
           "price": 0.9670368367419908
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": true,
+      "role": null
+    },
+    {
+      "id": "b242053a-f931-4a65-9da0-d42fa774ec4f",
+      "symbol": "XRPUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795787169.1417108,
+          "price": 0.9714226754683924
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
+    },
+    {
+      "id": "a4c6b13b-35f2-42f7-a726-ba4ebbbb94f5",
+      "symbol": "XRPUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795781541.4326184,
+          "price": 0.9768495079197654
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
+    },
+    {
+      "id": "1c885bb7-0611-45c6-ad20-76d9c3b035ee",
+      "symbol": "XRPUSDT",
+      "kind": "rect",
+      "points": [
+        {
+          "time": 1795779084.3540232,
+          "price": 0.9811079233409611
+        },
+        {
+          "time": 1795803760.5380597,
+          "price": 0.9770060122282608
         }
       ],
       "style": {
