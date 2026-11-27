@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:46:17.439Z",
+  "exportedAt": "2026-11-27T15:50:42.398Z",
   "version": 2,
   "charts": [
     {
@@ -55,9 +55,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.961,
-    "stopLoss": 0.9791,
-    "takeProfit": 0.915,
+    "entry": 0.9499,
+    "stopLoss": 0.968,
+    "takeProfit": 0.9039,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -277,16 +277,16 @@
       "kind": "short",
       "points": [
         {
-          "time": 1795793939.2394593,
-          "price": 0.961
+          "time": 1795794449.5158494,
+          "price": 0.9499
         },
         {
-          "time": 1795807191.490718,
-          "price": 0.9791
+          "time": 1795807701.767108,
+          "price": 0.968
         },
         {
-          "time": 1795807191.490718,
-          "price": 0.915
+          "time": 1795807701.767108,
+          "price": 0.9039
         }
       ],
       "style": {
@@ -348,7 +348,7 @@
     "shown": true
   },
   "orderFlowParts": {
-    "footprints": true,
+    "footprints": false,
     "imbalances": true,
     "bigTrades": true,
     "deltaStrip": true,
