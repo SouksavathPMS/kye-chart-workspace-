@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:26:47.439Z",
+  "exportedAt": "2026-11-27T17:27:04.329Z",
   "version": 2,
   "charts": [
     {
@@ -206,12 +206,12 @@
       "kind": "hsegment",
       "points": [
         {
-          "time": 1795735430.7386878,
-          "price": 0.941188932217587
+          "time": 1795735490.3291132,
+          "price": 0.9412119588227759
         },
         {
-          "time": 1795801641.2662196,
-          "price": 0.941188932217587
+          "time": 1795801700.856645,
+          "price": 0.9412119588227759
         }
       ],
       "style": {
@@ -313,6 +313,52 @@
       "locked": false,
       "role": null,
       "templateId": "liquidity"
+    },
+    {
+      "id": "c5636171-a4d8-40c8-b4fa-c371c7459735",
+      "symbol": "XRPUSDT",
+      "kind": "trendline",
+      "points": [
+        {
+          "time": 1795793145.1127667,
+          "price": 0.9533465655764185
+        },
+        {
+          "time": 1795805056.7764354,
+          "price": 0.9508177369608025
+        }
+      ],
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
+    },
+    {
+      "id": "fdfd61fc-fe88-4622-b50a-1798b4aa0ea4",
+      "symbol": "XRPUSDT",
+      "kind": "trendline",
+      "points": [
+        {
+          "time": 1795793025.9319162,
+          "price": 0.9428031123700192
+        },
+        {
+          "time": 1795803598.095293,
+          "price": 0.9499876083296713
+        }
+      ],
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
     }
   ],
   "drawingStyles": {
