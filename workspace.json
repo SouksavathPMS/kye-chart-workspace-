@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:45:12.920Z",
+  "exportedAt": "2026-11-27T14:45:49.148Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "5m"
+      "interval": "15m"
     },
     {
       "symbol": "XAUUSDT",
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -221,29 +221,6 @@
       "templateId": "u-6222e69d-5610-4777-bd57-67ddd33dfa06"
     },
     {
-      "id": "9eaf2fb6-a157-446a-9077-e824c15de320",
-      "symbol": "XRPUSDT",
-      "kind": "rect",
-      "points": [
-        {
-          "time": 1795744885.3521287,
-          "price": 0.9647412006578947
-        },
-        {
-          "time": 1795865407.4446216,
-          "price": 0.9670368367419908
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": true,
-      "role": null
-    },
-    {
       "id": "b242053a-f931-4a65-9da0-d42fa774ec4f",
       "symbol": "XRPUSDT",
       "kind": "ray",
@@ -336,12 +313,12 @@
       "kind": "rect",
       "points": [
         {
-          "time": 1795745700.1104257,
-          "price": 0.9600795207916191
+          "time": 1795745884.2162936,
+          "price": 0.9603392949355616
         },
         {
-          "time": 1795812514.1734972,
-          "price": 0.9571044010118708
+          "time": 1795812698.279365,
+          "price": 0.9573641751558133
         }
       ],
       "style": {
