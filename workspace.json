@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:49:26.304Z",
+  "exportedAt": "2026-11-27T14:49:54.031Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -365,7 +365,7 @@
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
-  "toolbarSize": "normal",
+  "toolbarSize": "large",
   "quickBar": {
     "items": [
       "trendline",
@@ -373,10 +373,11 @@
       "rect",
       "long",
       "short",
-      "tpl:bos"
+      "tpl:bos",
+      "fib"
     ],
-    "x": 0.5,
-    "y": 0,
+    "x": 0.2608008429926238,
+    "y": 0.07766990291262135,
     "vertical": false,
     "shown": true
   },
