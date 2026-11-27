@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:04:29.485Z",
+  "exportedAt": "2026-11-27T14:05:37.616Z",
   "version": 2,
   "charts": [
     {
@@ -20,7 +20,7 @@
       "interval": "1h"
     }
   ],
-  "layout": "1",
+  "layout": "2-side",
   "activeChart": 0,
   "linkSymbol": true,
   "dividers": {
@@ -28,7 +28,7 @@
       "x": 0.5610232527585747
     },
     "2-side": {
-      "x": 0.6188572170017482
+      "x": 0.3551418009985635
     }
   },
   "timeZone": "Asia/Vientiane",
@@ -115,7 +115,7 @@
   "magnet": false,
   "templates": [],
   "panel": {
-    "open": true,
+    "open": false,
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
