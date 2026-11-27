@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T12:37:06.779Z",
+  "exportedAt": "2026-11-27T12:38:10.976Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "3",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": true,
   "dividers": {
     "3": {
