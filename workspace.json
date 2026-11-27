@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:43:44.514Z",
+  "exportedAt": "2026-11-27T14:43:47.291Z",
   "version": 2,
   "charts": [
     {
@@ -364,6 +364,7 @@
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
+  "toolbarSize": "normal",
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
