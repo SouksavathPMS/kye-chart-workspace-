@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T12:38:34.395Z",
+  "exportedAt": "2026-11-27T12:53:29.794Z",
   "version": 2,
   "charts": [
     {
@@ -73,7 +73,7 @@
         "width": 1,
         "dash": "solid"
       },
-      "text": "Sync from another mac",
+      "text": "Sync  from another mac black",
       "locked": false,
       "role": null
     }
