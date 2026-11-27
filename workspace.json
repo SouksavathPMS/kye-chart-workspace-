@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:38:19.697Z",
+  "exportedAt": "2026-11-27T14:39:10.597Z",
   "version": 2,
   "charts": [
     {
@@ -21,14 +21,14 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
       "x": 0.5610232527585747
     },
     "2-side": {
-      "x": 0.40060482846671636
+      "x": 0.4283477572988331
     }
   },
   "timeZone": "Asia/Vientiane",
