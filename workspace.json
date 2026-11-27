@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:57:31.792Z",
+  "exportedAt": "2026-11-27T17:58:36.749Z",
   "version": 2,
   "charts": [
     {
-      "symbol": "XRPUSDT",
-      "interval": "5m"
+      "symbol": "BTCUSDT",
+      "interval": "30m"
     },
     {
       "symbol": "XRPUSDT",
@@ -21,15 +21,15 @@
       "interval": "1h"
     }
   ],
-  "layout": "1",
-  "activeChart": 0,
+  "layout": "2-side",
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
       "x": 0.5610232527585747
     },
     "2-side": {
-      "x": 0.43935168521010853
+      "x": 0.431790094983676
     }
   },
   "timeZone": "Asia/Vientiane",
