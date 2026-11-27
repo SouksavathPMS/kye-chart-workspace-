@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:55:04.645Z",
+  "exportedAt": "2026-11-27T17:55:56.349Z",
   "version": 2,
   "charts": [
     {
       "symbol": "BTCUSDT",
-      "interval": "30m"
+      "interval": "1h"
     },
     {
       "symbol": "XRPUSDT",
@@ -21,7 +21,7 @@
       "interval": "1h"
     }
   ],
-  "layout": "2-side",
+  "layout": "1",
   "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
@@ -456,6 +456,69 @@
       "text": "",
       "locked": false,
       "role": null
+    },
+    {
+      "id": "8da77a4e-de67-42fd-b0ed-e528b6f692f4",
+      "symbol": "BTCUSDT",
+      "kind": "fib",
+      "points": [
+        {
+          "time": 1795765301.4786355,
+          "price": 62166.85895832735
+        },
+        {
+          "time": 1795921337.2103386,
+          "price": 58792.38519056105
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
+    },
+    {
+      "id": "215f8b4e-a66c-4697-8db2-f73aba175421",
+      "symbol": "BTCUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795610027.355095,
+          "price": 57344.680084876745
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
+    },
+    {
+      "id": "332a3185-be2c-4cd0-9595-0352febe72b0",
+      "symbol": "BTCUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795237354.9288292,
+          "price": 55507.32410294807
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
     }
   ],
   "drawingStyles": {
@@ -498,10 +561,11 @@
       "rect",
       "long",
       "short",
-      "ray"
+      "ray",
+      "fib"
     ],
-    "x": 0.37452651515151514,
-    "y": 0.09255079006772009,
+    "x": 0.9498106060606061,
+    "y": 0.06884875846501129,
     "vertical": true,
     "shown": true
   },
