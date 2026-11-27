@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T12:38:10.976Z",
+  "exportedAt": "2026-11-27T12:38:34.395Z",
   "version": 2,
   "charts": [
     {
@@ -57,7 +57,27 @@
     "feePct": 0.05,
     "maintenancePct": 0.4
   },
-  "drawings": [],
+  "drawings": [
+    {
+      "id": "f6175bd3-d63c-4fe6-8009-2c3faa1dba83",
+      "symbol": "BTCUSDT",
+      "kind": "text",
+      "points": [
+        {
+          "time": 1795759833.8378906,
+          "price": 62214.67151347355
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Sync from another mac",
+      "locked": false,
+      "role": null
+    }
+  ],
   "drawingStyles": {},
   "magnet": false,
   "templates": [],
