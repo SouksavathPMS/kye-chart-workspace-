@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:42:44.714Z",
+  "exportedAt": "2026-11-27T17:43:00.119Z",
   "version": 2,
   "charts": [
     {
@@ -50,7 +50,7 @@
     "XRPUSDT"
   ],
   "showAutoLevels": false,
-  "showSpikes": true,
+  "showSpikes": false,
   "calculator": {
     "grade": "A",
     "balance": 1003.5,
