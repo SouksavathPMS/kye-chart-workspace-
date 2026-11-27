@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:51:17.564Z",
+  "exportedAt": "2026-11-27T14:51:37.969Z",
   "version": 2,
   "charts": [
     {
@@ -261,29 +261,6 @@
       "locked": false,
       "role": null,
       "templateId": "liquidity"
-    },
-    {
-      "id": "1c885bb7-0611-45c6-ad20-76d9c3b035ee",
-      "symbol": "XRPUSDT",
-      "kind": "rect",
-      "points": [
-        {
-          "time": 1795779084.3540232,
-          "price": 0.9811079233409611
-        },
-        {
-          "time": 1795803760.5380597,
-          "price": 0.9770060122282608
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": true,
-      "role": null
     },
     {
       "id": "80968267-7e1a-40bc-81ae-3c1a9e8f1281",
