@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:35:52.726Z",
+  "exportedAt": "2026-11-27T17:36:40.215Z",
   "version": 2,
   "charts": [
     {
@@ -402,5 +402,5 @@
     "background": "#000000"
   },
   "rowSizes": {},
-  "bigTradeMin": 0
+  "bigTradeMin": 500000
 }
