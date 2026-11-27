@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:00:57.773Z",
+  "exportedAt": "2026-11-27T15:01:29.881Z",
   "version": 2,
   "charts": [
     {
@@ -35,8 +35,8 @@
   "watchlist": [
     "XAUUSDT",
     "BTCUSDT",
-    "SUIUSDT",
     "XRPUSDT",
+    "SUIUSDT",
     "ETHUSDT",
     "BNBUSDT",
     "HYPEUSDT",
@@ -45,6 +45,7 @@
     "ANTUSDT"
   ],
   "focus": [
+    "BTCUSDT",
     "XRPUSDT"
   ],
   "showAutoLevels": false,
