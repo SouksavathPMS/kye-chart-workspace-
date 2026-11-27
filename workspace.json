@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:26:22.995Z",
+  "exportedAt": "2026-11-27T17:26:47.439Z",
   "version": 2,
   "charts": [
     {
@@ -54,9 +54,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.9492,
-    "stopLoss": 0.9459,
-    "takeProfit": 0.9611,
+    "entry": 0.961,
+    "stopLoss": 0.979,
+    "takeProfit": 0.915,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -253,15 +253,15 @@
       "kind": "short",
       "points": [
         {
-          "time": 1795793939.2394593,
+          "time": 1795793946.8923812,
           "price": 0.961
         },
         {
-          "time": 1795814555.581531,
+          "time": 1795814563.234453,
           "price": 0.979
         },
         {
-          "time": 1795814555.581531,
+          "time": 1795814563.234453,
           "price": 0.915
         }
       ],
@@ -293,33 +293,6 @@
       "locked": false,
       "role": null,
       "alert": "armed"
-    },
-    {
-      "id": "279f3257-ca2f-4c0a-bbed-d8b0218fd044",
-      "symbol": "XRPUSDT",
-      "kind": "long",
-      "points": [
-        {
-          "time": 1795800158.757693,
-          "price": 0.9492
-        },
-        {
-          "time": 1795806811.0791583,
-          "price": 0.9459
-        },
-        {
-          "time": 1795806811.0791583,
-          "price": 0.9611
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
     },
     {
       "id": "9609dbaf-7732-4645-9f4b-984abb282f5c",
