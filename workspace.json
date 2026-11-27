@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:06:42.818Z",
+  "exportedAt": "2026-11-27T14:06:56.694Z",
   "version": 2,
   "charts": [
     {
@@ -115,7 +115,7 @@
   "magnet": false,
   "templates": [],
   "panel": {
-    "open": false,
+    "open": true,
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
