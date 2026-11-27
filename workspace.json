@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:03:15.995Z",
+  "exportedAt": "2026-11-27T14:04:29.485Z",
   "version": 2,
   "charts": [
     {
@@ -57,8 +57,61 @@
     "feePct": 0.05,
     "maintenancePct": 0.4
   },
-  "drawings": [],
-  "drawingStyles": {},
+  "drawings": [
+    {
+      "id": "48757089-e62d-4859-8940-60cd30de6b86",
+      "symbol": "BTCUSDT",
+      "kind": "rect",
+      "points": [
+        {
+          "time": 1794895303.715971,
+          "price": 65142.76622582063
+        },
+        {
+          "time": 1795816615.5229862,
+          "price": 64060.38132006521
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Supply",
+      "locked": false,
+      "role": null
+    },
+    {
+      "id": "ed4dd8c7-0ee6-436e-978e-ce2a623616dd",
+      "symbol": "BTCUSDT",
+      "kind": "fib",
+      "points": [
+        {
+          "time": 1795441493.1243346,
+          "price": 64593.930890057156
+        },
+        {
+          "time": 1796010390.140269,
+          "price": 57254.084541233155
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
+    }
+  ],
+  "drawingStyles": {
+    "rect": {
+      "color": "#d1d4dc",
+      "width": 1,
+      "dash": "solid"
+    }
+  },
   "magnet": false,
   "templates": [],
   "panel": {
