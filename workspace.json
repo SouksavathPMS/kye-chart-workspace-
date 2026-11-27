@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:24:04.930Z",
+  "exportedAt": "2026-11-27T17:24:38.931Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -48,7 +48,7 @@
     "BTCUSDT",
     "XRPUSDT"
   ],
-  "showAutoLevels": false,
+  "showAutoLevels": true,
   "showSpikes": true,
   "calculator": {
     "grade": "A",
@@ -437,7 +437,7 @@
   },
   "sessions": {
     "pdhl": false,
-    "pwhl": true,
+    "pwhl": false,
     "asia": false,
     "london": false,
     "ny": false
