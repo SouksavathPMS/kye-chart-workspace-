@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:29:05.826Z",
+  "exportedAt": "2026-11-27T15:30:01.534Z",
   "version": 2,
   "charts": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -355,8 +355,8 @@
       "fib",
       "ray"
     ],
-    "x": 0.4128787878787879,
-    "y": 0.056433408577878104,
+    "x": 0.3418560606060606,
+    "y": 0.08013544018058691,
     "vertical": true,
     "shown": true
   },
