@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:14:16.833Z",
+  "exportedAt": "2026-11-27T15:14:31.213Z",
   "version": 2,
   "charts": [
     {
@@ -57,7 +57,7 @@
     "riskPct": 4,
     "entry": 0.9607,
     "stopLoss": 0.979,
-    "takeProfit": null,
+    "takeProfit": 0.8978,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
