@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:22:41.928Z",
+  "exportedAt": "2026-11-27T16:22:57.465Z",
   "version": 2,
   "charts": [
     {
@@ -299,13 +299,13 @@
       "role": null
     },
     {
-      "id": "f9fa0892-3378-491a-b5f3-3dc968ec03f2",
+      "id": "c3436c4f-5ccd-4492-b61e-1579611e49b8",
       "symbol": "XRPUSDT",
       "kind": "hline",
       "points": [
         {
           "time": 1795796400,
-          "price": 0.9544720543252172
+          "price": 0.9543
         }
       ],
       "style": {
@@ -316,7 +316,7 @@
       "text": "Alert",
       "locked": false,
       "role": null,
-      "alert": "fired"
+      "alert": "armed"
     }
   ],
   "drawingStyles": {
