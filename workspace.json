@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:10:49.229Z",
+  "exportedAt": "2026-11-27T14:11:19.514Z",
   "version": 2,
   "charts": [
     {
@@ -190,6 +190,30 @@
       "locked": false,
       "role": null,
       "templateId": "fvg"
+    },
+    {
+      "id": "9a69845e-14a3-4157-8209-87f4e047b598",
+      "symbol": "XRPUSDT",
+      "kind": "hsegment",
+      "points": [
+        {
+          "time": 1795769860.6248894,
+          "price": 0.9757168370995424
+        },
+        {
+          "time": 1795779806.2250705,
+          "price": 0.9757168370995424
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "BOS",
+      "locked": false,
+      "role": null,
+      "templateId": "bos"
     }
   ],
   "drawingStyles": {
