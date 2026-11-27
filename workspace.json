@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:56:44.248Z",
+  "exportedAt": "2026-11-27T17:57:00.006Z",
   "version": 2,
   "charts": [
     {
       "symbol": "XRPUSDT",
-      "interval": "15m"
+      "interval": "5m"
     },
     {
       "symbol": "XRPUSDT",
@@ -599,6 +599,13 @@
     "ny": false
   },
   "alertLog": [
+    {
+      "at": 1795802210004,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.9455,
+      "side": "short"
+    },
     {
       "at": 1795801418658,
       "symbol": "XRPUSDT",
