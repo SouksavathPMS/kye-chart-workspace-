@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:42:22.262Z",
+  "exportedAt": "2026-11-27T14:43:00.583Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -312,16 +312,16 @@
       "kind": "hsegment",
       "points": [
         {
-          "time": 1795752596.878737,
-          "price": 0.9586452948463058
+          "time": 1795735430.7386878,
+          "price": 0.941188932217587
         },
         {
-          "time": 1795789584.8787527,
-          "price": 0.9586452948463058
+          "time": 1795801641.2662196,
+          "price": 0.941188932217587
         }
       ],
       "style": {
-        "color": "#ef5350",
+        "color": "#26a69a",
         "width": 1,
         "dash": "dashed"
       },
