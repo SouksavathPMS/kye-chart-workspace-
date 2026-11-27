@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:05:53.275Z",
+  "exportedAt": "2026-11-27T16:09:16.748Z",
   "version": 2,
   "charts": [
     {
@@ -55,7 +55,7 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": null,
+    "entry": 0.961,
     "stopLoss": 0.9791,
     "takeProfit": 0.915,
     "leverage": 10,
@@ -342,8 +342,8 @@
       "fib",
       "ray"
     ],
-    "x": 0.3418560606060606,
-    "y": 0.08013544018058691,
+    "x": 0.3731060606060606,
+    "y": 0.060948081264108354,
     "vertical": true,
     "shown": true
   },
@@ -354,6 +354,18 @@
     "deltaStrip": true,
     "sessionProfile": true,
     "cvd": false
+  },
+  "tradeAlerts": {
+    "sound": true,
+    "voice": true,
+    "voiceName": null,
+    "words": {
+      "fill": "Order filled",
+      "tp": "Take profit hit",
+      "sl": "Stop loss hit"
+    },
+    "clips": {},
+    "notify": true
   },
   "chartSettings": {
     "verticalGrid": false,
