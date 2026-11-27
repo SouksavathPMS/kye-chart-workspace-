@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:43:49.478Z",
+  "exportedAt": "2026-11-27T15:46:17.439Z",
   "version": 2,
   "charts": [
     {
@@ -354,6 +354,10 @@
     "deltaStrip": true,
     "sessionProfile": true,
     "cvd": false
+  },
+  "tradeAlerts": {
+    "sound": true,
+    "notify": true
   },
   "chartSettings": {
     "verticalGrid": false,
