@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:14:17.998Z",
+  "exportedAt": "2026-11-27T14:14:29.297Z",
   "version": 2,
   "charts": [
     {
@@ -262,7 +262,7 @@
         "dash": "solid"
       },
       "text": "",
-      "locked": false,
+      "locked": true,
       "role": null
     }
   ],
