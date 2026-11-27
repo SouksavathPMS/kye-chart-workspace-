@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:29:51.638Z",
+  "exportedAt": "2026-11-27T17:30:11.152Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -343,12 +343,12 @@
       "kind": "trendline",
       "points": [
         {
-          "time": 1795793130.6444266,
-          "price": 0.9428031123700192
+          "time": 1795793140.4274611,
+          "price": 0.9428157046290553
         },
         {
-          "time": 1795803937.859318,
-          "price": 0.9500454684794135
+          "time": 1795803947.6423526,
+          "price": 0.9500580607384496
         }
       ],
       "style": {
