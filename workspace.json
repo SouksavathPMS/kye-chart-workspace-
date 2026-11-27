@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:28:38.153Z",
+  "exportedAt": "2026-11-27T17:29:36.432Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "30m"
+      "interval": "5m"
     },
     {
       "symbol": "XAUUSDT",
@@ -343,16 +343,16 @@
       "kind": "trendline",
       "points": [
         {
-          "time": 1795793025.9319162,
+          "time": 1795793130.6444266,
           "price": 0.9428031123700192
         },
         {
-          "time": 1795803598.095293,
-          "price": 0.9499876083296713
+          "time": 1795803937.859318,
+          "price": 0.9500454684794135
         }
       ],
       "style": {
-        "color": "#26a69a",
+        "color": "#ef5350",
         "width": 1,
         "dash": "dashed"
       },
@@ -363,7 +363,7 @@
   ],
   "drawingStyles": {
     "trendline": {
-      "color": "#26a69a",
+      "color": "#ef5350",
       "width": 1,
       "dash": "dashed"
     },
@@ -404,8 +404,8 @@
       "fib",
       "ray"
     ],
-    "x": 0.3731060606060606,
-    "y": 0.060948081264108354,
+    "x": 0.37452651515151514,
+    "y": 0.09255079006772009,
     "vertical": true,
     "shown": true
   },
