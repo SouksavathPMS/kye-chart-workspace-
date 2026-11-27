@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:05:37.616Z",
+  "exportedAt": "2026-11-27T14:06:42.818Z",
   "version": 2,
   "charts": [
     {
@@ -8,27 +8,27 @@
       "interval": "1h"
     },
     {
-      "symbol": "BTCUSDT",
-      "interval": "30m"
+      "symbol": "XRPUSDT",
+      "interval": "1h"
     },
     {
-      "symbol": "BTCUSDT",
+      "symbol": "XAUUSDT",
       "interval": "15m"
     },
     {
-      "symbol": "BTCUSDT",
+      "symbol": "XAUUSDT",
       "interval": "1h"
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
-  "linkSymbol": true,
+  "activeChart": 1,
+  "linkSymbol": false,
   "dividers": {
     "3": {
       "x": 0.5610232527585747
     },
     "2-side": {
-      "x": 0.3551418009985635
+      "x": 0.40060482846671636
     }
   },
   "timeZone": "Asia/Vientiane",
@@ -78,7 +78,7 @@
         "dash": "solid"
       },
       "text": "Supply",
-      "locked": false,
+      "locked": true,
       "role": null
     },
     {
@@ -87,12 +87,12 @@
       "kind": "fib",
       "points": [
         {
-          "time": 1795441493.1243346,
-          "price": 64593.930890057156
+          "time": 1795441490.7805846,
+          "price": 64591.98763188746
         },
         {
-          "time": 1796010390.140269,
-          "price": 57254.084541233155
+          "time": 1796010387.796519,
+          "price": 57252.14128306346
         }
       ],
       "style": {
@@ -101,7 +101,7 @@
         "dash": "solid"
       },
       "text": "",
-      "locked": false,
+      "locked": true,
       "role": null
     }
   ],
