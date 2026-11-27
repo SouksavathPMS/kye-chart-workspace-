@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:53:25.057Z",
+  "exportedAt": "2026-11-27T17:53:58.044Z",
   "version": 2,
   "charts": [
     {
       "symbol": "BTCUSDT",
-      "interval": "30m"
+      "interval": "1h"
     },
     {
       "symbol": "XRPUSDT",
@@ -316,6 +316,29 @@
       "locked": false,
       "role": null,
       "templateId": "liquidity"
+    },
+    {
+      "id": "5f1262f6-9897-4c7b-9555-2dfe46049e7b",
+      "symbol": "BTCUSDT",
+      "kind": "circle",
+      "points": [
+        {
+          "time": 1795441440.9867625,
+          "price": 64272.8241510261
+        },
+        {
+          "time": 1795473665.1212654,
+          "price": 64187.89490992901
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
     }
   ],
   "drawingStyles": {
