@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:31:50.836Z",
+  "exportedAt": "2026-11-27T14:32:23.280Z",
   "version": 2,
   "charts": [
     {
@@ -9,8 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "5m",
-      "orderFlow": true
+      "interval": "5m"
     },
     {
       "symbol": "XAUUSDT",
