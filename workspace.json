@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-26T06:35:51.400Z",
+  "exportedAt": "2026-11-27T12:33:07.433Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "3",
-  "activeChart": 2,
+  "activeChart": 0,
   "linkSymbol": true,
   "dividers": {
     "3": {
@@ -70,5 +70,7 @@
     "verticalGrid": false,
     "horizontalGrid": false,
     "background": "#000000"
-  }
+  },
+  "rowSizes": {},
+  "bigTradeMin": 0
 }
