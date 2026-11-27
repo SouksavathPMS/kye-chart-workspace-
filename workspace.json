@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:31:24.078Z",
+  "exportedAt": "2026-11-27T17:32:33.935Z",
   "version": 2,
   "charts": [
     {
@@ -55,7 +55,7 @@
     "balance": 1003.5,
     "riskPct": 4,
     "entry": 0.9468,
-    "stopLoss": 0.954,
+    "stopLoss": 0.9536,
     "takeProfit": 0.9064,
     "leverage": 10,
     "feePct": 0.05,
@@ -295,26 +295,6 @@
       "alert": "armed"
     },
     {
-      "id": "9609dbaf-7732-4645-9f4b-984abb282f5c",
-      "symbol": "XRPUSDT",
-      "kind": "ray",
-      "points": [
-        {
-          "time": 1795793480.5187118,
-          "price": 0.9535323539960556
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "Liquidity",
-      "locked": false,
-      "role": null,
-      "templateId": "liquidity"
-    },
-    {
       "id": "c5636171-a4d8-40c8-b4fa-c371c7459735",
       "symbol": "XRPUSDT",
       "kind": "trendline",
@@ -370,11 +350,11 @@
           "price": 0.9468
         },
         {
-          "time": 1795841140.9450734,
-          "price": 0.954
+          "time": 1795817456.5397825,
+          "price": 0.9536
         },
         {
-          "time": 1795841140.9450734,
+          "time": 1795817456.5397825,
           "price": 0.9064
         }
       ],
