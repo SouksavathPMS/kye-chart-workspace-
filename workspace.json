@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:52:33.136Z",
+  "exportedAt": "2026-11-27T14:56:49.546Z",
   "version": 2,
   "charts": [
     {
@@ -47,8 +47,8 @@
   "focus": [
     "XRPUSDT"
   ],
-  "showAutoLevels": true,
-  "showSpikes": false,
+  "showAutoLevels": false,
+  "showSpikes": true,
   "calculator": {
     "grade": null,
     "balance": 1003.5,
@@ -351,7 +351,8 @@
       "long",
       "short",
       "tpl:bos",
-      "fib"
+      "fib",
+      "ray"
     ],
     "x": 0.2455456570155902,
     "y": 0.04315960912052117,
