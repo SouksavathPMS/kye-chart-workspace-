@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:34:00.257Z",
+  "exportedAt": "2026-11-27T16:34:12.065Z",
   "version": 2,
   "charts": [
     {
@@ -393,7 +393,7 @@
     "pwhl": false,
     "asia": false,
     "london": false,
-    "ny": true
+    "ny": false
   },
   "chartSettings": {
     "verticalGrid": false,
