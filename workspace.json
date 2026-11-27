@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:33:28.556Z",
+  "exportedAt": "2026-11-27T17:35:52.726Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,8 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "5m"
+      "interval": "5m",
+      "orderFlow": true
     },
     {
       "symbol": "XAUUSDT",
@@ -54,9 +55,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.9612,
-    "stopLoss": 0.9792,
-    "takeProfit": 0.9066,
+    "entry": 0.961,
+    "stopLoss": 0.979,
+    "takeProfit": 0.9064,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -293,79 +294,6 @@
       "locked": false,
       "role": null,
       "alert": "armed"
-    },
-    {
-      "id": "c5636171-a4d8-40c8-b4fa-c371c7459735",
-      "symbol": "XRPUSDT",
-      "kind": "trendline",
-      "points": [
-        {
-          "time": 1795793145.1127667,
-          "price": 0.9533591578354546
-        },
-        {
-          "time": 1795805056.7764354,
-          "price": 0.9508303292198386
-        }
-      ],
-      "style": {
-        "color": "#26a69a",
-        "width": 1,
-        "dash": "dashed"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
-    },
-    {
-      "id": "fdfd61fc-fe88-4622-b50a-1798b4aa0ea4",
-      "symbol": "XRPUSDT",
-      "kind": "trendline",
-      "points": [
-        {
-          "time": 1795793150.2104957,
-          "price": 0.9428157046290553
-        },
-        {
-          "time": 1795803957.4253871,
-          "price": 0.9500580607384496
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "dashed"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
-    },
-    {
-      "id": "fcf7cdf6-f809-421b-a51d-b343648ad4df",
-      "symbol": "XRPUSDT",
-      "kind": "short",
-      "points": [
-        {
-          "time": 1795800670.056348,
-          "price": 0.9468
-        },
-        {
-          "time": 1795817456.5397825,
-          "price": 0.9536
-        },
-        {
-          "time": 1795817456.5397825,
-          "price": 0.9064
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
     }
   ],
   "drawingStyles": {
