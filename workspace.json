@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:54:08.909Z",
+  "exportedAt": "2026-11-27T15:57:22.745Z",
   "version": 2,
   "charts": [
     {
@@ -357,6 +357,7 @@
   },
   "tradeAlerts": {
     "sound": true,
+    "voice": true,
     "notify": true
   },
   "chartSettings": {
