@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:49:37.143Z",
+  "exportedAt": "2026-11-27T17:51:18.674Z",
   "version": 2,
   "charts": [
     {
@@ -382,56 +382,11 @@
       "fill": "Order filled",
       "tp": "Take profit hit",
       "sl": "Stop loss hit",
-      "line": "{symbol} crossed {price}",
-      "band": "{symbol} in the entry band"
+      "line": "{symbol} crossed {price}"
     },
     "clips": {},
     "notify": true
   },
-  "sessions": {
-    "pdhl": false,
-    "pwhl": false,
-    "asia": false,
-    "london": false,
-    "ny": false
-  },
-  "alertLog": [
-    {
-      "at": 1795801418658,
-      "symbol": "XRPUSDT",
-      "kind": "fill",
-      "price": 0.9455,
-      "side": "short"
-    },
-    {
-      "at": 1795801147295,
-      "symbol": "XRPUSDT",
-      "kind": "fill",
-      "price": 0.9459,
-      "side": "short"
-    },
-    {
-      "at": 1795800648886,
-      "symbol": "XRPUSDT",
-      "kind": "fill",
-      "price": 0.9468,
-      "side": "short"
-    },
-    {
-      "at": 1795800372994,
-      "symbol": "XRPUSDT",
-      "kind": "fill",
-      "price": 0.9492,
-      "side": "long"
-    },
-    {
-      "at": 1795799989870,
-      "symbol": "XRPUSDT",
-      "kind": "fill",
-      "price": 0.949,
-      "side": "long"
-    }
-  ],
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
