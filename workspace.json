@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:53:12.330Z",
+  "exportedAt": "2026-11-27T17:53:25.057Z",
   "version": 2,
   "charts": [
     {
       "symbol": "BTCUSDT",
-      "interval": "1h"
+      "interval": "30m"
     },
     {
       "symbol": "XRPUSDT",
