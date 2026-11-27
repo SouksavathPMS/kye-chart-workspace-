@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:38:15.326Z",
+  "exportedAt": "2026-11-27T14:38:19.697Z",
   "version": 2,
   "charts": [
     {
@@ -44,6 +44,7 @@
     "SOLUSDT",
     "ANTUSDT"
   ],
+  "focus": [],
   "showAutoLevels": false,
   "showSpikes": false,
   "calculator": {
@@ -354,20 +355,21 @@
     }
   ],
   "drawingStyles": {
-    "rect": {
-      "color": "#d1d4dc",
-      "width": 1,
-      "dash": "solid"
-    },
     "trendline": {
       "color": "#26a69a",
       "width": 1,
       "dash": "dashed"
+    },
+    "rect": {
+      "color": "#d1d4dc",
+      "width": 1,
+      "dash": "solid"
     }
   },
   "magnet": false,
   "templates": [
     {
+      "id": "u-6222e69d-5610-4777-bd57-67ddd33dfa06",
       "name": "TP",
       "kind": "trendline",
       "style": {
@@ -376,7 +378,6 @@
         "dash": "dashed"
       },
       "text": "TP",
-      "id": "u-6222e69d-5610-4777-bd57-67ddd33dfa06",
       "builtIn": false
     }
   ],
