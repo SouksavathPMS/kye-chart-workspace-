@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:59:41.677Z",
+  "exportedAt": "2026-11-27T16:00:38.861Z",
   "version": 2,
   "charts": [
     {
@@ -358,6 +358,13 @@
   "tradeAlerts": {
     "sound": true,
     "voice": true,
+    "voiceName": null,
+    "words": {
+      "fill": "Order filled",
+      "tp": "Take profit hit",
+      "sl": "Stop loss hit"
+    },
+    "clips": {},
     "notify": true
   },
   "chartSettings": {
