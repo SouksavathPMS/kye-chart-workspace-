@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:57:00.006Z",
+  "exportedAt": "2026-11-27T17:57:31.792Z",
   "version": 2,
   "charts": [
     {
@@ -56,7 +56,7 @@
     "balance": 1003.5,
     "riskPct": 4,
     "entry": 0.9455,
-    "stopLoss": 0.9544,
+    "stopLoss": 0.9543,
     "takeProfit": 0.8924,
     "leverage": 10,
     "feePct": 0.05,
@@ -234,11 +234,11 @@
           "price": 0.9455
         },
         {
-          "time": 1795831040.8548691,
-          "price": 0.9544
+          "time": 1795841006.437069,
+          "price": 0.9543
         },
         {
-          "time": 1795831040.8548691,
+          "time": 1795841006.437069,
           "price": 0.8924
         }
       ],
