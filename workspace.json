@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:44:48.962Z",
+  "exportedAt": "2026-11-27T14:45:12.920Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -386,7 +386,7 @@
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
-  "toolbarSize": "normal",
+  "toolbarSize": "large",
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
