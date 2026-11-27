@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:57:26.669Z",
+  "exportedAt": "2026-11-27T14:57:53.759Z",
   "version": 2,
   "charts": [
     {
@@ -350,12 +350,8 @@
       "rect",
       "long",
       "short",
-      "tpl:bos",
       "fib",
-      "ray",
-      "tpl:pd",
-      "tpl:liquidity",
-      "tpl:u-6222e69d-5610-4777-bd57-67ddd33dfa06"
+      "ray"
     ],
     "x": 0.2455456570155902,
     "y": 0.04315960912052117,
