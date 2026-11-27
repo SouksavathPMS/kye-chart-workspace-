@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:05:16.339Z",
+  "exportedAt": "2026-11-27T15:05:57.052Z",
   "version": 2,
   "charts": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -361,8 +361,8 @@
     "shown": true
   },
   "orderFlowParts": {
-    "footprints": true,
-    "imbalances": false,
+    "footprints": false,
+    "imbalances": true,
     "bigTrades": false,
     "deltaStrip": false,
     "sessionProfile": false,
