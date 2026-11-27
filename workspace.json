@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:18:23.952Z",
+  "exportedAt": "2026-11-27T16:22:14.820Z",
   "version": 2,
   "charts": [
     {
@@ -297,6 +297,26 @@
       "text": "",
       "locked": false,
       "role": null
+    },
+    {
+      "id": "f9fa0892-3378-491a-b5f3-3dc968ec03f2",
+      "symbol": "XRPUSDT",
+      "kind": "hline",
+      "points": [
+        {
+          "time": 1795796400,
+          "price": 0.9475334225498593
+        }
+      ],
+      "style": {
+        "color": "#f5c542",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "Alert",
+      "locked": false,
+      "role": null,
+      "alert": "armed"
     }
   ],
   "drawingStyles": {
@@ -362,7 +382,8 @@
     "words": {
       "fill": "Order filled",
       "tp": "Take profit hit",
-      "sl": "Stop loss hit"
+      "sl": "Stop loss hit",
+      "line": "{symbol} crossed {price}"
     },
     "clips": {},
     "notify": true
