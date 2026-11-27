@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:58:36.749Z",
+  "exportedAt": "2026-11-27T17:58:47.820Z",
   "version": 2,
   "charts": [
     {
@@ -272,29 +272,6 @@
       },
       "text": "",
       "locked": false,
-      "role": null
-    },
-    {
-      "id": "68a32168-b740-428c-b39e-44eaf0ca93d4",
-      "symbol": "XRPUSDT",
-      "kind": "fib",
-      "points": [
-        {
-          "time": 1795775985.7421875,
-          "price": 0.9848258840436002
-        },
-        {
-          "time": 1795799986.1328125,
-          "price": 0.9308905414976738
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": true,
       "role": null
     },
     {
