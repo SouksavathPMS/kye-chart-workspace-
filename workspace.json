@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T15:26:10.540Z",
+  "exportedAt": "2026-11-27T15:28:13.914Z",
   "version": 2,
   "charts": [
     {
@@ -355,9 +355,9 @@
       "fib",
       "ray"
     ],
-    "x": 0.2393018018018018,
-    "y": 0.046644844517184945,
-    "vertical": false,
+    "x": 0.4128787878787879,
+    "y": 0.056433408577878104,
+    "vertical": true,
     "shown": true
   },
   "orderFlowParts": {
