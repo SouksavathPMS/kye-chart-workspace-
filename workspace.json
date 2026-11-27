@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:43:31.453Z",
+  "exportedAt": "2026-11-27T17:44:06.736Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "30m",
+      "interval": "5m",
       "orderFlow": true
     },
     {
@@ -57,7 +57,7 @@
     "riskPct": 4,
     "entry": 0.9455,
     "stopLoss": 0.9544,
-    "takeProfit": 0.8909,
+    "takeProfit": 0.8924,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -178,30 +178,6 @@
       "templateId": "bos"
     },
     {
-      "id": "1b78c6cd-0ca5-4aa6-8d4c-609d54317c60",
-      "symbol": "XRPUSDT",
-      "kind": "trendline",
-      "points": [
-        {
-          "time": 1795624822.506395,
-          "price": 0.9064574531607552
-        },
-        {
-          "time": 1795836144.5979786,
-          "price": 0.9064574531607552
-        }
-      ],
-      "style": {
-        "color": "#26a69a",
-        "width": 1,
-        "dash": "dashed"
-      },
-      "text": "TP",
-      "locked": false,
-      "role": null,
-      "templateId": "u-6222e69d-5610-4777-bd57-67ddd33dfa06"
-    },
-    {
       "id": "80968267-7e1a-40bc-81ae-3c1a9e8f1281",
       "symbol": "XRPUSDT",
       "kind": "hsegment",
@@ -254,16 +230,16 @@
       "kind": "short",
       "points": [
         {
-          "time": 1795801303.7332044,
+          "time": 1795801593.486531,
           "price": 0.9455
         },
         {
-          "time": 1795822319.0947344,
+          "time": 1795831245.769437,
           "price": 0.9544
         },
         {
-          "time": 1795822319.0947344,
-          "price": 0.8909
+          "time": 1795831245.769437,
+          "price": 0.8924
         }
       ],
       "style": {
@@ -377,6 +353,13 @@
     "ny": false
   },
   "alertLog": [
+    {
+      "at": 1795801418658,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.9455,
+      "side": "short"
+    },
     {
       "at": 1795801147295,
       "symbol": "XRPUSDT",
