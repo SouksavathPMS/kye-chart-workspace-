@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:26:02.421Z",
+  "exportedAt": "2026-11-27T17:26:22.995Z",
   "version": 2,
   "charts": [
     {
@@ -54,9 +54,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.961,
-    "stopLoss": 0.979,
-    "takeProfit": 0.915,
+    "entry": 0.9492,
+    "stopLoss": 0.9459,
+    "takeProfit": 0.9611,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -300,16 +300,16 @@
       "kind": "long",
       "points": [
         {
-          "time": 1795799888.1700764,
-          "price": 0.9491
+          "time": 1795800158.757693,
+          "price": 0.9492
         },
         {
-          "time": 1795806540.4915416,
-          "price": 0.9458
+          "time": 1795806811.0791583,
+          "price": 0.9459
         },
         {
-          "time": 1795806540.4915416,
-          "price": 0.961
+          "time": 1795806811.0791583,
+          "price": 0.9611
         }
       ],
       "style": {
@@ -420,6 +420,13 @@
     "ny": false
   },
   "alertLog": [
+    {
+      "at": 1795800372994,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.9492,
+      "side": "long"
+    },
     {
       "at": 1795799989870,
       "symbol": "XRPUSDT",
