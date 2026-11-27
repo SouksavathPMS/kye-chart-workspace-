@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:08:45.028Z",
+  "exportedAt": "2026-11-27T14:09:37.295Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "30m"
+      "interval": "1h"
     },
     {
       "symbol": "XAUUSDT",
@@ -44,8 +44,8 @@
     "SOLUSDT",
     "ANTUSDT"
   ],
-  "showAutoLevels": true,
-  "showSpikes": true,
+  "showAutoLevels": false,
+  "showSpikes": false,
   "calculator": {
     "grade": null,
     "balance": 1011,
@@ -102,6 +102,69 @@
       },
       "text": "",
       "locked": true,
+      "role": null
+    },
+    {
+      "id": "c1970f93-9755-4a9e-95e1-641f6d8a5021",
+      "symbol": "XRPUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795617730.3398983,
+          "price": 0.8889099391852285
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
+    },
+    {
+      "id": "67ddc0cb-6b1a-479d-9877-5152a8eb48a8",
+      "symbol": "XRPUSDT",
+      "kind": "ray",
+      "points": [
+        {
+          "time": 1795707110.0902445,
+          "price": 0.9391596918962486
+        }
+      ],
+      "style": {
+        "color": "#ef5350",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "Liquidity",
+      "locked": false,
+      "role": null,
+      "templateId": "liquidity"
+    },
+    {
+      "id": "1aaec161-39c6-4089-841a-48620d20452a",
+      "symbol": "XRPUSDT",
+      "kind": "fib",
+      "points": [
+        {
+          "time": 1795441276.8998692,
+          "price": 1.025706916833524
+        },
+        {
+          "time": 1795902814.9232547,
+          "price": 0.8887587671624714
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
       "role": null
     }
   ],
