@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:21:31.786Z",
+  "exportedAt": "2026-11-27T17:22:20.820Z",
   "version": 2,
   "charts": [
     {
@@ -440,7 +440,7 @@
     "pwhl": false,
     "asia": false,
     "london": false,
-    "ny": false
+    "ny": true
   },
   "alertLog": [
     {
