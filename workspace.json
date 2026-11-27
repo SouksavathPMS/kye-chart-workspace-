@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:33:35.500Z",
+  "exportedAt": "2026-11-27T16:34:00.257Z",
   "version": 2,
   "charts": [
     {
@@ -382,7 +382,8 @@
       "fill": "Order filled",
       "tp": "Take profit hit",
       "sl": "Stop loss hit",
-      "line": "{symbol} crossed {price}"
+      "line": "{symbol} crossed {price}",
+      "band": "{symbol} in the entry band"
     },
     "clips": {},
     "notify": true
@@ -391,8 +392,8 @@
     "pdhl": false,
     "pwhl": false,
     "asia": false,
-    "london": true,
-    "ny": false
+    "london": false,
+    "ny": true
   },
   "chartSettings": {
     "verticalGrid": false,
