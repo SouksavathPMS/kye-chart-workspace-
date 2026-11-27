@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:09:33.036Z",
+  "exportedAt": "2026-11-27T16:15:04.531Z",
   "version": 2,
   "charts": [
     {
@@ -362,7 +362,8 @@
     "words": {
       "fill": "Order filled",
       "tp": "Take profit hit",
-      "sl": "Stop loss hit"
+      "sl": "Stop loss hit",
+      "line": "{symbol} crossed {price}"
     },
     "clips": {},
     "notify": true
