@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T17:24:57.100Z",
+  "exportedAt": "2026-11-27T17:25:13.225Z",
   "version": 2,
   "charts": [
     {
@@ -82,29 +82,6 @@
         "dash": "solid"
       },
       "text": "Supply",
-      "locked": true,
-      "role": null
-    },
-    {
-      "id": "ed4dd8c7-0ee6-436e-978e-ce2a623616dd",
-      "symbol": "BTCUSDT",
-      "kind": "fib",
-      "points": [
-        {
-          "time": 1795441490.7805846,
-          "price": 64591.98763188746
-        },
-        {
-          "time": 1796010387.796519,
-          "price": 57252.14128306346
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
       "locked": true,
       "role": null
     },
