@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T16:22:14.820Z",
+  "exportedAt": "2026-11-27T16:22:41.928Z",
   "version": 2,
   "charts": [
     {
@@ -305,7 +305,7 @@
       "points": [
         {
           "time": 1795796400,
-          "price": 0.9475334225498593
+          "price": 0.9544720543252172
         }
       ],
       "style": {
@@ -316,7 +316,7 @@
       "text": "Alert",
       "locked": false,
       "role": null,
-      "alert": "armed"
+      "alert": "fired"
     }
   ],
   "drawingStyles": {
