@@ -1,11 +1,11 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T12:56:17.925Z",
+  "exportedAt": "2026-11-27T13:39:04.978Z",
   "version": 2,
   "charts": [
     {
       "symbol": "BTCUSDT",
-      "interval": "15m"
+      "interval": "1h"
     },
     {
       "symbol": "BTCUSDT",
@@ -13,7 +13,7 @@
     },
     {
       "symbol": "BTCUSDT",
-      "interval": "4h"
+      "interval": "15m"
     },
     {
       "symbol": "BTCUSDT",
@@ -57,32 +57,12 @@
     "feePct": 0.05,
     "maintenancePct": 0.4
   },
-  "drawings": [
-    {
-      "id": "f6175bd3-d63c-4fe6-8009-2c3faa1dba83",
-      "symbol": "BTCUSDT",
-      "kind": "text",
-      "points": [
-        {
-          "time": 1795759833.8378906,
-          "price": 62214.67151347355
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "Sync  from another mac",
-      "locked": false,
-      "role": null
-    }
-  ],
+  "drawings": [],
   "drawingStyles": {},
   "magnet": false,
   "templates": [],
   "panel": {
-    "open": false,
+    "open": true,
     "tab": "calculator"
   },
   "stayInDrawingMode": false,
