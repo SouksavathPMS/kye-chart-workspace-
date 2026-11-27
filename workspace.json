@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-27T14:40:03.392Z",
+  "exportedAt": "2026-11-27T14:42:03.796Z",
   "version": 2,
   "charts": [
     {
@@ -9,7 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "5m"
+      "interval": "15m"
     },
     {
       "symbol": "XAUUSDT",
@@ -45,7 +45,7 @@
     "ANTUSDT"
   ],
   "focus": [],
-  "showAutoLevels": false,
+  "showAutoLevels": true,
   "showSpikes": false,
   "calculator": {
     "grade": null,
@@ -195,29 +195,6 @@
       "locked": false,
       "role": null,
       "templateId": "bos"
-    },
-    {
-      "id": "ad451748-d319-4dae-a5ed-c8d87252dd01",
-      "symbol": "XRPUSDT",
-      "kind": "trendline",
-      "points": [
-        {
-          "time": 1795705926.178067,
-          "price": 0.9380733163794336
-        },
-        {
-          "time": 1795865284.1702876,
-          "price": 0.9380733163794336
-        }
-      ],
-      "style": {
-        "color": "#26a69a",
-        "width": 1,
-        "dash": "dashed"
-      },
-      "text": "TP",
-      "locked": false,
-      "role": null
     },
     {
       "id": "1b78c6cd-0ca5-4aa6-8d4c-609d54317c60",
