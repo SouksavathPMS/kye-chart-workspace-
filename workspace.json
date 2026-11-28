@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:04:08.798Z",
+  "exportedAt": "2026-11-28T04:07:18.804Z",
   "version": 2,
   "charts": [
     {
@@ -52,7 +52,7 @@
   "showSpikes": false,
   "calculator": {
     "grade": "B+",
-    "balance": 1003.5,
+    "balance": 959.5951,
     "riskPct": 3,
     "entry": 0.9516,
     "stopLoss": 0.957,
