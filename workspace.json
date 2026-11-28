@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T03:32:45.302Z",
+  "exportedAt": "2026-11-28T03:33:02.946Z",
   "version": 2,
   "charts": [
     {
@@ -223,29 +223,6 @@
         "color": "#d1d4dc",
         "width": 1,
         "dash": "solid"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
-    },
-    {
-      "id": "abf2f639-6b95-4ff1-b482-283933ed2278",
-      "symbol": "XRPUSDT",
-      "kind": "trendline",
-      "points": [
-        {
-          "time": 1795792551.8790283,
-          "price": 0.9410908611925421
-        },
-        {
-          "time": 1795803937.686148,
-          "price": 0.9507911332997214
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "dashed"
       },
       "text": "",
       "locked": false,
