@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T03:49:00.573Z",
+  "exportedAt": "2026-11-28T03:49:52.934Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -97,52 +97,6 @@
         {
           "time": 1795473665.1212654,
           "price": 64187.89490992901
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
-    },
-    {
-      "id": "bbd7a0f4-f1f1-41bc-af84-42a9857d6477",
-      "symbol": "BTCUSDT",
-      "kind": "rect",
-      "points": [
-        {
-          "time": 1795440726.7563906,
-          "price": 61665.85279581154
-        },
-        {
-          "time": 1795817073.2565193,
-          "price": 62321.53029351216
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": false,
-      "role": null
-    },
-    {
-      "id": "696edf0a-57cf-42ed-90c9-b9bd683192e4",
-      "symbol": "BTCUSDT",
-      "kind": "fib",
-      "points": [
-        {
-          "time": 1795444046.604972,
-          "price": 64540.508222615834
-        },
-        {
-          "time": 1795678076.090221,
-          "price": 57307.48098170916
         }
       ],
       "style": {
@@ -356,8 +310,8 @@
       "ray",
       "fib"
     ],
-    "x": 0.4540719696969697,
-    "y": 0.050790067720090294,
+    "x": 0.45265151515151514,
+    "y": 0.05191873589164785,
     "vertical": true,
     "shown": true
   },
