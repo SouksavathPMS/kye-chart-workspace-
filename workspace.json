@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:08:02.754Z",
+  "exportedAt": "2026-11-28T04:08:34.102Z",
   "version": 2,
   "charts": [
     {
@@ -358,6 +358,13 @@
         0.886,
         1
       ]
+    },
+    "hline": {
+      "color": "#d1d4dc",
+      "width": 1,
+      "dash": "solid",
+      "showLabel": true,
+      "showPrice": true
     }
   },
   "magnet": false,
