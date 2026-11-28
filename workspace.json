@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:11:52.714Z",
+  "exportedAt": "2026-11-28T04:14:27.967Z",
   "version": 2,
   "charts": [
     {
@@ -54,7 +54,7 @@
     "grade": "B+",
     "balance": 959.5951,
     "riskPct": 3,
-    "entry": null,
+    "entry": 0.951,
     "stopLoss": 0.957,
     "takeProfit": 0.9304,
     "leverage": 10,
@@ -326,6 +326,33 @@
       "text": "",
       "locked": true,
       "role": null
+    },
+    {
+      "id": "607d08bc-9f57-450e-858d-5926b090cbeb",
+      "symbol": "XRPUSDT",
+      "kind": "short",
+      "points": [
+        {
+          "time": 1795839000,
+          "price": 0.951
+        },
+        {
+          "time": 1795845000,
+          "price": 0.957
+        },
+        {
+          "time": 1795845000,
+          "price": 0.9304
+        }
+      ],
+      "style": {
+        "color": "#d1d4dc",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "",
+      "locked": false,
+      "role": null
     }
   ],
   "drawingStyles": {
@@ -433,7 +460,15 @@
     "london": false,
     "ny": false
   },
-  "alertLog": [],
+  "alertLog": [
+    {
+      "at": 1795839257965,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.951,
+      "side": "short"
+    }
+  ],
   "chartSettings": {
     "verticalGrid": false,
     "horizontalGrid": false,
