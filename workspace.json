@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:02:52.947Z",
+  "exportedAt": "2026-11-28T04:03:55.783Z",
   "version": 2,
   "charts": [
     {
@@ -54,9 +54,9 @@
     "grade": "B+",
     "balance": 1003.5,
     "riskPct": 3,
-    "entry": null,
-    "stopLoss": null,
-    "takeProfit": null,
+    "entry": 0.9516,
+    "stopLoss": 0.957,
+    "takeProfit": 0.9304,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -284,7 +284,20 @@
         "color": "#d1d4dc",
         "width": 1,
         "dash": "dotted",
-        "fillOpacity": 0.13
+        "opacity": 0.7,
+        "fillOpacity": 0.08,
+        "showBorder": true,
+        "showEntryBand": true,
+        "fibLevels": [
+          0,
+          0.236,
+          0.382,
+          0.5,
+          0.618,
+          0.786,
+          0.886,
+          1
+        ]
       },
       "text": "",
       "locked": true,
@@ -331,7 +344,20 @@
       "color": "#d1d4dc",
       "width": 1,
       "dash": "dotted",
-      "fillOpacity": 0.13
+      "opacity": 0.7,
+      "fillOpacity": 0.08,
+      "showBorder": true,
+      "showEntryBand": true,
+      "fibLevels": [
+        0,
+        0.236,
+        0.382,
+        0.5,
+        0.618,
+        0.786,
+        0.886,
+        1
+      ]
     }
   },
   "magnet": false,
