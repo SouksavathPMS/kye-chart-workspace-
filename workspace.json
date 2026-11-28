@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T03:40:11.052Z",
+  "exportedAt": "2026-11-28T03:40:33.995Z",
   "version": 2,
   "charts": [
     {
@@ -287,6 +287,30 @@
       "locked": false,
       "role": null,
       "templateId": "bos"
+    },
+    {
+      "id": "cad4feca-6cc7-41a2-8a53-021846813169",
+      "symbol": "XRPUSDT",
+      "kind": "trendline",
+      "points": [
+        {
+          "time": 1795618779.3211753,
+          "price": 0.8980983153454817
+        },
+        {
+          "time": 1795938715.4810457,
+          "price": 0.8980983153454817
+        }
+      ],
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "dashed"
+      },
+      "text": "TP",
+      "locked": false,
+      "role": null,
+      "templateId": "u-6222e69d-5610-4777-bd57-67ddd33dfa06"
     }
   ],
   "drawingStyles": {
@@ -332,8 +356,8 @@
       "ray",
       "fib"
     ],
-    "x": 0.9498106060606061,
-    "y": 0.06884875846501129,
+    "x": 0.4616477272727273,
+    "y": 0.07110609480812641,
     "vertical": true,
     "shown": true
   },
