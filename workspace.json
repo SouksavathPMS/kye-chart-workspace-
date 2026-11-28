@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:17:19.520Z",
+  "exportedAt": "2026-11-28T04:18:58.795Z",
   "version": 2,
   "charts": [
     {
@@ -54,9 +54,9 @@
     "grade": "B+",
     "balance": 959.5951,
     "riskPct": 3,
-    "entry": 0.952,
-    "stopLoss": 0.9575,
-    "takeProfit": 0.9313,
+    "entry": null,
+    "stopLoss": null,
+    "takeProfit": null,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -326,34 +326,6 @@
       "text": "",
       "locked": true,
       "role": null
-    },
-    {
-      "id": "32bec3de-b6d4-477f-9a71-28255dea7033",
-      "symbol": "XRPUSDT",
-      "kind": "short",
-      "points": [
-        {
-          "time": 1795839300,
-          "price": 0.952
-        },
-        {
-          "time": 1795845300,
-          "price": 0.9575
-        },
-        {
-          "time": 1795845300,
-          "price": 0.9313
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid",
-        "fillOpacity": 0.11
-      },
-      "text": "",
-      "locked": true,
-      "role": null
     }
   ],
   "drawingStyles": {
@@ -468,6 +440,34 @@
     "ny": false
   },
   "alertLog": [
+    {
+      "at": 1795839507729,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.952,
+      "side": "short"
+    },
+    {
+      "at": 1795839476850,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.952,
+      "side": "short"
+    },
+    {
+      "at": 1795839466688,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.9521,
+      "side": "short"
+    },
+    {
+      "at": 1795839457295,
+      "symbol": "XRPUSDT",
+      "kind": "fill",
+      "price": 0.952,
+      "side": "short"
+    },
     {
       "at": 1795839411320,
       "symbol": "XRPUSDT",
