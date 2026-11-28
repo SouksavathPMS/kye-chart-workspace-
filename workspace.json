@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:27:34.808Z",
+  "exportedAt": "2026-11-28T04:29:38.193Z",
   "version": 2,
   "charts": [
     {
@@ -349,6 +349,11 @@
       "width": 1,
       "dash": "solid",
       "fillOpacity": 0.11
+    },
+    "tpl:bos": {
+      "color": "#d1d4dc",
+      "width": 1,
+      "dash": "solid"
     }
   },
   "magnet": false,
