@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:02:05.049Z",
+  "exportedAt": "2026-11-28T04:02:41.304Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -283,7 +283,8 @@
       "style": {
         "color": "#d1d4dc",
         "width": 1,
-        "dash": "dotted"
+        "dash": "dotted",
+        "fillOpacity": 0.13
       },
       "text": "",
       "locked": true,
@@ -327,7 +328,8 @@
     "fib": {
       "color": "#d1d4dc",
       "width": 1,
-      "dash": "dotted"
+      "dash": "dotted",
+      "fillOpacity": 0.13
     }
   },
   "magnet": false,
