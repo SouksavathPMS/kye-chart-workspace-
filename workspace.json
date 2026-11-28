@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T03:39:05.613Z",
+  "exportedAt": "2026-11-28T03:40:11.052Z",
   "version": 2,
   "charts": [
     {
@@ -54,9 +54,9 @@
     "grade": "A",
     "balance": 1003.5,
     "riskPct": 4,
-    "entry": 0.9454,
-    "stopLoss": 0.9541,
-    "takeProfit": 0.8923,
+    "entry": null,
+    "stopLoss": null,
+    "takeProfit": null,
     "leverage": 10,
     "feePct": 0.05,
     "maintenancePct": 0.4
@@ -218,60 +218,17 @@
       "templateId": "liquidity"
     },
     {
-      "id": "c1970f93-9755-4a9e-95e1-641f6d8a5021",
-      "symbol": "XRPUSDT",
-      "kind": "ray",
-      "points": [
-        {
-          "time": 1795617730.3398983,
-          "price": 0.8889099391852285
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "Liquidity",
-      "locked": false,
-      "role": null,
-      "templateId": "liquidity"
-    },
-    {
-      "id": "1aaec161-39c6-4089-841a-48620d20452a",
-      "symbol": "XRPUSDT",
-      "kind": "fib",
-      "points": [
-        {
-          "time": 1795441276.8998692,
-          "price": 1.0257589700729406
-        },
-        {
-          "time": 1795902814.9232547,
-          "price": 0.888810820401888
-        }
-      ],
-      "style": {
-        "color": "#d1d4dc",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "",
-      "locked": true,
-      "role": null
-    },
-    {
       "id": "98253699-b728-4a4e-9f99-0021ae739a68",
       "symbol": "XRPUSDT",
       "kind": "rect",
       "points": [
         {
-          "time": 1795480186.2629867,
-          "price": 0.9909480138010661
+          "time": 1795448657.7692883,
+          "price": 0.9908102122075477
         },
         {
           "time": 1795960598.2688205,
-          "price": 0.9755124624566726
+          "price": 0.9754765948362426
         }
       ],
       "style": {
@@ -283,54 +240,6 @@
       "locked": false,
       "role": null,
       "templateId": "fvg"
-    },
-    {
-      "id": "9a69845e-14a3-4157-8209-87f4e047b598",
-      "symbol": "XRPUSDT",
-      "kind": "hsegment",
-      "points": [
-        {
-          "time": 1795769860.6248894,
-          "price": 0.9757168370995424
-        },
-        {
-          "time": 1795779806.2250705,
-          "price": 0.9757168370995424
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "BOS",
-      "locked": false,
-      "role": null,
-      "templateId": "bos"
-    },
-    {
-      "id": "80968267-7e1a-40bc-81ae-3c1a9e8f1281",
-      "symbol": "XRPUSDT",
-      "kind": "hsegment",
-      "points": [
-        {
-          "time": 1795735045.9635484,
-          "price": 0.9410648143961717
-        },
-        {
-          "time": 1795801256.4910803,
-          "price": 0.9410648143961717
-        }
-      ],
-      "style": {
-        "color": "#26a69a",
-        "width": 1,
-        "dash": "dashed"
-      },
-      "text": "CHoCH",
-      "locked": false,
-      "role": null,
-      "templateId": "choch"
     },
     {
       "id": "56778905-52ec-4186-9f27-add0e03bce69",
@@ -354,6 +263,30 @@
       "text": "",
       "locked": true,
       "role": null
+    },
+    {
+      "id": "a36e0f41-3783-4218-8de0-80aacb0c46c9",
+      "symbol": "XRPUSDT",
+      "kind": "hsegment",
+      "points": [
+        {
+          "time": 1795735391.3316696,
+          "price": 0.9418377351474477
+        },
+        {
+          "time": 1795790149.605404,
+          "price": 0.9418377351474477
+        }
+      ],
+      "style": {
+        "color": "#26a69a",
+        "width": 1,
+        "dash": "solid"
+      },
+      "text": "BOS",
+      "locked": false,
+      "role": null,
+      "templateId": "bos"
     }
   ],
   "drawingStyles": {
