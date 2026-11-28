@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T03:33:02.946Z",
+  "exportedAt": "2026-11-28T03:33:25.530Z",
   "version": 2,
   "charts": [
     {
@@ -9,8 +9,7 @@
     },
     {
       "symbol": "XRPUSDT",
-      "interval": "15m",
-      "orderFlow": true
+      "interval": "15m"
     },
     {
       "symbol": "XAUUSDT",
@@ -22,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 1,
+  "activeChart": 0,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -227,26 +226,6 @@
       "text": "",
       "locked": false,
       "role": null
-    },
-    {
-      "id": "ff02696f-699a-4e34-8a21-5bea65f66129",
-      "symbol": "XRPUSDT",
-      "kind": "ray",
-      "points": [
-        {
-          "time": 1795793548.5364704,
-          "price": 0.9529852270191019
-        }
-      ],
-      "style": {
-        "color": "#ef5350",
-        "width": 1,
-        "dash": "solid"
-      },
-      "text": "Liquidity",
-      "locked": false,
-      "role": null,
-      "templateId": "liquidity"
     },
     {
       "id": "48757089-e62d-4859-8940-60cd30de6b86",
