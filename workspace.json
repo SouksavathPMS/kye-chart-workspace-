@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:07:18.804Z",
+  "exportedAt": "2026-11-28T04:08:02.754Z",
   "version": 2,
   "charts": [
     {
@@ -377,7 +377,7 @@
   ],
   "panel": {
     "open": true,
-    "tab": "calculator"
+    "tab": "levels"
   },
   "stayInDrawingMode": false,
   "toolbarSize": "large",
