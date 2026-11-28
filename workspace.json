@@ -1,6 +1,6 @@
 {
   "app": "kye-chart",
-  "exportedAt": "2026-11-28T04:26:21.429Z",
+  "exportedAt": "2026-11-28T04:27:34.808Z",
   "version": 2,
   "charts": [
     {
@@ -21,7 +21,7 @@
     }
   ],
   "layout": "2-side",
-  "activeChart": 0,
+  "activeChart": 1,
   "linkSymbol": false,
   "dividers": {
     "3": {
@@ -79,7 +79,8 @@
       "style": {
         "color": "#d1d4dc",
         "width": 1,
-        "dash": "solid"
+        "dash": "solid",
+        "fillOpacity": 0.11
       },
       "text": "Supply",
       "locked": true,
@@ -202,11 +203,11 @@
       "points": [
         {
           "time": 1795660673.1764622,
-          "price": 0.9619789719771805
+          "price": 0.961993863152
         },
         {
           "time": 1795866200.9249082,
-          "price": 0.9562746089280606
+          "price": 0.956289500103
         }
       ],
       "style": {
@@ -285,7 +286,7 @@
         "width": 1,
         "dash": "dotted",
         "opacity": 0.7,
-        "fillOpacity": 0.08,
+        "fillOpacity": 0.11,
         "showBorder": true,
         "showEntryBand": true,
         "fibLevels": [
@@ -314,14 +315,15 @@
     "rect": {
       "color": "#d1d4dc",
       "width": 1,
-      "dash": "solid"
+      "dash": "solid",
+      "fillOpacity": 0.11
     },
     "fib": {
       "color": "#d1d4dc",
       "width": 1,
       "dash": "dotted",
       "opacity": 0.7,
-      "fillOpacity": 0.08,
+      "fillOpacity": 0.11,
       "showBorder": true,
       "showEntryBand": true,
       "fibLevels": [
